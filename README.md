@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 [link-chrome]: https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn 'Chrome Web Store'
 [link-firefox]: https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/ 'Firefox Add-ons'
 [link-edge]: https://microsoftedge.microsoft.com/addons/detail/arxivutils/flahobhjikkpnpohomeckhdjjkkkkmoc/ 'Edge Add-ons'
